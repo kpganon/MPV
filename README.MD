@@ -8,7 +8,7 @@
 
 <h1>[Custom Keybinds]</h1>
 
-* Mouse wheel up+down -- volume control
+* *Mouse wheel up+down* -- volume control
 * Ctrl+V -- paste url into mpv
 * Shift+Enter -- show playlist
 * Shift+< & Shift+> -- skip back/forward in playlist
