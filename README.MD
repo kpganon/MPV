@@ -23,13 +23,13 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 * __Shift+Enter__ ...........................show playlist
 * __Shift+< & Shift+>__ .....................skip back/forward in playlist
 * __p__ .....................................save current playlist to .m3u (saved to %APPDATA%\mpv\Playlists)
-* F1+drag ...................................click+drag to pan video
-* Shift+mousewheel up or down................zoom in/out of video
-* Alt+d......................................remove all video filters
-* Alt+left/right arrow.......................rotate video
-* insert......................................quit player (alternative to q)
-* Alt+1.......................................toggle borderless
-* Shift+v.....................................cycle video player scale
-* l...........................................toggle file loop
-* i...........................................show video stats
-* c...........................................crop video
+* __F1+drag__ ...................................click+drag to pan video
+* __Shift+mousewheel up or down__................zoom in/out of video
+* __Alt+d__......................................remove all video filters
+* __Alt+left/right arrow__.......................rotate video
+* __insert__......................................quit player (alternative to q)
+* __Alt+1__.......................................toggle borderless
+* __Shift+v__.....................................cycle video player scale
+* __l__...........................................toggle file loop
+* __i__...........................................show video stats
+* __c__...........................................crop video
