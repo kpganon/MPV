@@ -23,6 +23,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 * __Shift+Enter__ ...........................show playlist
 * __Shift+< & Shift+>__ .....................skip back/forward in playlist
 * __p__ .....................................save current playlist to .m3u (saved to %APPDATA%\mpv\Playlists)
+* Ctrl+r.......................................reload video
 * __F1+drag__ ...................................click+drag to pan video
 * __Shift+mousewheel up or down__................zoom in/out of video
 * __Alt+d__......................................remove all video filters
