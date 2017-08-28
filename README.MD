@@ -37,6 +37,9 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 <h6><i>See input.conf for more</i></h6>
 
 <h1>Userscripts</h1>
+
 https://github.com/mpv-player/mpv/wiki/User-Scripts
+
 https://github.com/occivink/mpv-scripts
+
 https://github.com/Kagami/mpv_slicing
