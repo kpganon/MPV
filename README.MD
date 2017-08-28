@@ -2,7 +2,7 @@
 
 <h1>[Installation]</h1>
 
-* refer to [this](https://github.com/kpganon/Guides/blob/master/MPV%20Guide%20v1.0.txt) guide
+* refer to [this](https://github.com/kpganon/Guides/blob/master/mpv%20guide%20v1.0.txt) guide
 * place all files into your %APPDATA%\mpv folder
 * edit .conf files accordingly
 
