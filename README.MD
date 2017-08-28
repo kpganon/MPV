@@ -4,7 +4,7 @@ https://mpv.io
 https://mpv.io/manual/stable/#synopsis
 
 <div class="header">
-  <img src="http://i.imgur.com/qmxCXRC.png" alt="MPV logo" style="width:64px;height:64px;"/>
+  <img src="http://i.imgur.com/qmxCXRC.png" alt="MPV logo" style="width:4px;height:4px;"/>
   <h1>MPV CONFIG</h1>
 </div>
 <h1>[Installation]</h1>
