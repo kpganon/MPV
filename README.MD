@@ -34,6 +34,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 * __i__...........................................show video stats
 * __c__...........................................crop video
 
+<h6><i>See input.conf for more</i></h6>
 
 <h1>Userscripts</h1>
 https://github.com/mpv-player/mpv/wiki/User-Scripts
