@@ -1,5 +1,6 @@
 # MPV CONFIG
 https://mpv.io
+
 https://mpv.io/manual/stable/#synopsis
 <h1>[Installation]</h1>
 
