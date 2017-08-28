@@ -18,8 +18,6 @@ https://mpv.io/manual/stable/#synopsis
 
 __Default__: https://mpv.io/manual/stable/#keyboard-control
 
-<h3>Custom/LUA</h3>
-
 * __Mouse wheel up+down__ ...................volume control
 * __Ctrl+V__ ................................paste url into mpv
 * __Shift+Enter__ ...........................show playlist
