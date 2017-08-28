@@ -10,6 +10,8 @@
 
 __Default__: https://mpv.io/manual/stable/#keyboard-control
 
+* __Custom/LUA__
+
 * __Mouse wheel up+down__ ...................volume control
 * __Ctrl+V__ ................................paste url into mpv
 * __Shift+Enter__ ...........................show playlist
