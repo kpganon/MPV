@@ -6,9 +6,11 @@
 * place all files into your %APPDATA%\mpv folder
 * edit .conf files accordingly
 
-<h1>[Custom Keybinds]</h1>
+<h1>[Keybinds]</h1>
 
-* __Mouse wheel up+down__ ..................volume control
+__Default__: https://mpv.io/manual/stable/#keyboard-control
+
+* __Mouse wheel up+down__ ...................volume control
 * __Ctrl+V__ ................................paste url into mpv
 * __Shift+Enter__ ...........................show playlist
 * __Shift+< & Shift+>__ .....................skip back/forward in playlist
