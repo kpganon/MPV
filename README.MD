@@ -1,5 +1,6 @@
 # MPV CONFIG
-
+https://mpv.io
+https://mpv.io/manual/stable/#synopsis
 <h1>[Installation]</h1>
 
 * refer to [this](https://github.com/kpganon/Guides/blob/master/mpv%20guide%20v1.0.txt) guide
