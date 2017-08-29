@@ -9,7 +9,7 @@ local options = {
   keybind = "W",
   -- If empty, saves on the same directory of the playing video.
   -- A starting "~" will be replaced by the home dir.
-  output_directory = "C:/Users/HTPC/Desktop/",
+  output_directory = "C:/Users/%USERNAME%/Desktop/",
   run_detached = false,
   -- Format string for the output file
   -- %f - Filename, with extension
