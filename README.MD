@@ -38,7 +38,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 * __Ctrl+f__....................................crop video
 * __Shift+w__...................................start webm.lua
 
-<h6><i>See <a href="https://github.com/kpganon/MPV/blob/master/input.conf)">input.conf</a> for more</i></h6>
+<h6><i>See <a href="https://github.com/kpganon/MPV/blob/master/input.conf">input.conf</a> for more</i></h6>
 
 <h1>Userscripts</h1>
 
