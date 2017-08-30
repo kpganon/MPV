@@ -18,22 +18,25 @@ https://mpv.io/manual/stable/#synopsis
 
 __Default__: https://mpv.io/manual/stable/#keyboard-control
 
-* __Mouse wheel up+down__ ...................volume control
-* __Ctrl+V__ ................................paste url into mpv
-* __Shift+Enter__ ...........................show playlist
-* __Shift+< & Shift+>__ .....................skip back/forward in playlist
-* __p__ .....................................save current playlist to .m3u (saved to %APPDATA%\mpv\Playlists)
+* __Mouse wheel up+down__ .....................volume control
+* __Ctrl+V__ ..................................paste url into mpv
+* __Shift+Enter__ .............................show playlist
+* __Shift+< & Shift+>__ .......................skip back/forward in playlist
+* __p__ .......................................save current playlist to .m3u (saved to %APPDATA%\mpv\Playlists)
 * Ctrl+r.......................................reload video
-* __F1+drag__ ...................................click+drag to pan video
-* __Shift+mousewheel up or down__................zoom in/out of video
-* __Alt+d__......................................remove all video filters
-* __Alt+left/right arrow__.......................rotate video
-* __insert__......................................quit player (alternative to q)
-* __Alt+1__.......................................toggle borderless
-* __Shift+v__.....................................cycle video player scale
-* __l__...........................................toggle file loop
-* __i__...........................................show video stats
-* __c__...........................................crop video
+* __F1+drag__ .................................click+drag to pan video
+* __Shift+mousewheel up or down__..............zoom in/out of video
+* __Alt+d__....................................remove all video filters
+* __Alt+left/right arrow__......................rotate video
+* __insert__....................................quit player (alternative to q)
+* __Alt+1__.....................................toggle borderless
+* __Shift+v__...................................cycle video player scale
+* __l__.........................................toggle file loop
+* __i__.........................................show video stats
+* __Ctrl+f__....................................crop video
+* __d__.........................................deinterlace (ctrl+d + d again to use custom filter)
+* __Ctrl+f__....................................crop video
+* __Shift+w__...................................start webm.lua
 
 <h6><i>See input.conf for more</i></h6>
 
