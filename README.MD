@@ -37,7 +37,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 * __d__.........................................deinterlace (ctrl+d + d again to use custom filter)
 * __Ctrl+f__....................................crop video
 * __Shift+w__...................................start webm.lua
-
+* __Ctrl+e.....................................download currently playing video to desktop using youtube-dl
 <h6><i>See <a href="https://github.com/kpganon/MPV/blob/master/input.conf">input.conf</a> for more</i></h6>
 
 <h1>Userscripts</h1>
