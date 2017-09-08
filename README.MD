@@ -24,7 +24,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 | **Ctrl+V**      | paste url into mpv      | 
 | **Shift+Enter** | show playlist      |
 | **Ctrl+←/→ arrows** | skip back/forward in playlist   |
-| **p** | save current playlist to .m3u (saved to %APPDATA%\mpv\Playlists)   |
+| **p** | save current playlist to .m3u (saved to %APPDATA%\mpv\Playlists)¹   |
 | **Ctrl+r** | reload video  |
 | **F1+left click** | click+drag to pan video   |
 | **Shift+mousewheel up or down** | zoom in/out of video   |
@@ -37,10 +37,12 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 | **i** | show video stats   |
 | **c** | crop video   |
 | **b** | download subs   |
-| **s** | take screenshot (edit <a href="https://github.com/kpganon/MPV/blob/master/mpv.conf">line 32</a> if screenshots fail)   |
+| **s** | take screenshot²   |
 | **Shift+w** | start <a href="https://github.com/ElegantMonkey/mpv-webm">webm.lua</a>   |
 | **Ctrl+e** | download currently playing video to desktop using youtube-dl   |
 | **d/Ctrl+d** | deinterlace/automatically detect which filter to use   |
+* ¹edit <a href="https://github.com/kpganon/MPV/blob/master/scripts/playlistmanager.lua">line 6</a> if playlists don't save
+* ²edit <a href="https://github.com/kpganon/MPV/blob/master/mpv.conf">line 32</a> if screenshots fail
 <h6><i>See <a href="https://github.com/kpganon/MPV/blob/master/input.conf">input.conf</a> for more</i></h6>
 <h1>Installed userscripts</h1>
 
@@ -78,7 +80,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
  | **Shift+Enter** | show playlist items   |
  | **↑ & ↓ arrows+Enter** | move up/down playlist items   |
  | **⌫ Backspace** | remove item from playlist   |
- | **p** | save playlist to .m3u  (edit <a href="https://github.com/kpganon/MPV/blob/master/scripts/playlistmanager.lua">line 6</a> if playlists don't save) | 
+ | **p** | save playlist to .m3u  | 
 
   <h6>* Dynamic keybinds will only work when playlist is visible</h6>
     
