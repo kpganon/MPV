@@ -17,6 +17,7 @@ https://mpv.io/manual/stable/#synopsis
 <h1>[Keybinds]</h1>
 
 __Default__: https://mpv.io/manual/stable/#keyboard-control
+
 | Keybind       | Action        |
 | ------------- |:-------------:|
 | **Mouse wheel up+down**     | volume control |
