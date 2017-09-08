@@ -12,7 +12,7 @@ https://mpv.io/manual/stable/#synopsis
 
 * refer to [this](https://github.com/kpganon/Guides/blob/master/mpv%20guide%20v1.3.txt) guide
 * place all files into your %APPDATA%\mpv folder
-* edit .conf files accordingly
+* edit .conf and .lua files accordingly
 
 <h1>[Keybinds]</h1>
 
