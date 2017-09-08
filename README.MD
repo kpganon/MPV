@@ -84,7 +84,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
  | **⌫ Backspace** | remove item from playlist   |
  | **p** | save playlist to .m3u  | 
 
-  <h6>* Dynamic keybinds will only work when playlist is visible</h6>
+  <h6>* Dynamic keybinds will only work when the playlist is visible</h6>
     
 <h3>Passive</h3>
 
