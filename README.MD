@@ -69,7 +69,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
     * Detect which deinterlace filter to use (Ctrl+d)
     
 ### <a href="https://github.com/aidanholm/mpv-easycrop">easycrop</a>
-    * Crop video (Ctrl+f)
+    * Crop video (c)
     
 ### <a href="https://github.com/Argon-/mpv-stats">mpv-stats</a>
     * Show video info (i)
