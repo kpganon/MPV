@@ -17,9 +17,6 @@ https://mpv.io/manual/stable/#synopsis
 <h1>[Keybinds]</h1>
 
 __Default__: https://mpv.io/manual/stable/#keyboard-control
-
-Colons can be used to align columns.
-
 | Keybind       | Action        |
 | ------------- |:-------------:|
 | **Mouse wheel up+down**     | volume control |
@@ -41,7 +38,6 @@ Colons can be used to align columns.
 | **Shift+w** | start <a href="https://github.com/ElegantMonkey/mpv-webm">webm.lua</a>   |
 | **Ctrl+e** | download currently playing video to desktop using youtube-dl   |
 <h6><i>See <a href="https://github.com/kpganon/MPV/blob/master/input.conf">input.conf</a> for more</i></h6>
-
 <h1>Installed userscripts</h1>
 
 ## <a href="https://github.com/jonniek/mpv-scripts/blob/master/appendURL.lua">appendURL</a>
