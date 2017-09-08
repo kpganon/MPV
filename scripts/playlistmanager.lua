@@ -3,7 +3,7 @@ local settings = {
   linux_over_windows = false,
 
   --path where you want to save playlists, notice trailing \ or /. Do not use shortcuts like ~ or $HOME
-  playlist_savepath = "C:\\Users\\HTPC\\AppData\\Roaming\\mpv\\Playlists\\",
+  playlist_savepath = "C:\\Users\\%USERNAME%\\AppData\\Roaming\\mpv\\Playlists\\",
 
   --osd when navigating in seconds
   osd_duration_seconds = 3,
