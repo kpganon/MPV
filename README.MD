@@ -49,7 +49,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 ### <a href="https://github.com/Argon-/mpv-config/blob/master/scripts/autosub.lua">autosub</a>
     * Download subtitles for active file. 
     
-<h6><i>Requires <a href="https://github.com/Diaoul/subliminal">subliminal</a></i></h6>
+    <h6><i>Requires <a href="https://github.com/Diaoul/subliminal">subliminal</a></i></h6>
     
 ### <a href="https://github.com/ElegantMonkey/mpv-webm">
     * Quick webms (Shift+w)
