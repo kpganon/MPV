@@ -37,7 +37,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 | **i** | show video stats   |
 | **c** | crop video   |
 | **b** | download subs   |
-| **s** | take screenshot²   |
+| **s** | take a screenshot²   |
 | **Shift+w** | start <a href="https://github.com/ElegantMonkey/mpv-webm">webm.lua</a>   |
 | **Ctrl+e** | download currently playing video to desktop using youtube-dl   |
 | **d/Ctrl+d** | deinterlace/automatically detect which filter to use   |
