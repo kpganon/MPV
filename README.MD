@@ -18,6 +18,14 @@ https://mpv.io/manual/stable/#synopsis
 
 __Default__: https://mpv.io/manual/stable/#keyboard-control
 
+Colons can be used to align columns.
+
+| Keybind       | Action        |
+| ------------- |:-------------:|
+| **Mouse wheel up+down**     | volume control |
+| **Ctrl+V**      | paste url into mpv      | 
+| **Shift+Enter** | show playlist      |
+
 * __Mouse wheel up+down__ .....................volume control
 * __Ctrl+V__ ..................................paste url into mpv
 * __Shift+Enter__ .............................show playlist
