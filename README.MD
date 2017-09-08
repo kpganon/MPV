@@ -58,7 +58,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
     
 ### <a href="https://github.com/ElegantMonkey/mpv-webm">mpv-webm</a>
     * Quick webms (Shift+w)
-    * only works with local media and streamed mp4s 
+    * Only works with local media and streamed mp4s 
     
    <h6><i>See <a href="https://github.com/kpganon/MPV/blob/master/README.MD#additional">below</a> for alternative methods</i></h6>
   
