@@ -70,6 +70,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
  ### <a href="https://github.com/jonniek/mpv-playlistmanager">mpv-playlistmanager</a>
     * Create/manage playlists 
     
+ | ------------- |:-------------:|    
  | **Shift+Enter** | show playlist items   |
  | **↑ & ↓ arrows+Enter** | move up/down playlist items   |
  | **⌫ Backspace** | remove item from playlist   |
