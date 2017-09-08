@@ -25,6 +25,23 @@ Colons can be used to align columns.
 | **Mouse wheel up+down**     | volume control |
 | **Ctrl+V**      | paste url into mpv      | 
 | **Shift+Enter** | show playlist      |
+| **Ctrl+arrow keys l/r** | skip back/forward in playlist   |
+| **p** | save current playlist to .m3u (saved to %APPDATA%\mpv\Playlists)   |
+| **Ctrl+r** | reload video  |
+| **F1+left click | click+drag to pan video   |
+| **Shift+mousewheel up or down** | zoom in/out of video   |
+| **Alt+left/right arrow** | rotate video   |
+| **Alt+d** | remove all video filters   |
+| **insert** | quit player (alternative to q)   |
+| **Alt+1** | toggle borderless   |
+| **Shift+v** | cycle video player scale   |
+| **l** | toggle file loop   |
+| **i** | show video stats   |
+| **Ctrl+f** | crop video   |
+| **Shift+w** | start <a href="https://github.com/ElegantMonkey/mpv-webm">webm.lua</a>   |
+| **Ctrl+e** | download currently playing video to desktop using youtube-dl   |
+<h6><i>See <a href="https://github.com/kpganon/MPV/blob/master/input.conf">input.conf</a> for more</i></h6>
+
 
 * __Mouse wheel up+down__ .....................volume control
 * __Ctrl+V__ ..................................paste url into mpv
