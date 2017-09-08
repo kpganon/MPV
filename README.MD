@@ -93,6 +93,6 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 ### <a href="https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/ontop-playback.lua">ontop-playback</a>
     * Disables always-on-top while video is paused
     
-<h6>Additional</h6>
+<h2>Additional</h2>
 https://github.com/mpv-player/mpv/wiki/User-Scripts
 https://github.com/occivink/mpv-scripts
