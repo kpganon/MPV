@@ -47,7 +47,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
     * Paste url (Ctrl+v)
     
 ### <a href="https://github.com/Argon-/mpv-config/blob/master/scripts/autosub.lua">autosub</a>
-    * Download subtitles for active file. 
+    * Download subtitles for active file (b)
     
    <h6><i>Requires <a href="https://github.com/Diaoul/subliminal">subliminal</a></i></h6>
     
