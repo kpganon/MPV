@@ -89,7 +89,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 <h3>Passive</h3>
 
 ### <a href="https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua">autoload</a>
-    * Automatically loads all files in active file's folder into a playlist
+    * Automatically loads all files within a directory into a playlist
     
 ### <a href="https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/ontop-playback.lua">ontop-playback</a>
     * Disables always-on-top while video is paused
