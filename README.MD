@@ -68,12 +68,12 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
     * Show video info (i)
  
  ### <a href="https://github.com/jonniek/mpv-playlistmanager">mpv-playlistmanager</a>
- 
     * Create/manage playlists 
-    | **Shift+Enter** | show playlist items   |
-    | **↑ & ↓ arrows+Enter** | move up/down playlist items   |
-    | **⌫ Backspace** | remove item from playlist   |
-    | **p** | save playlist to .m3u   | 
+    
+ | **Shift+Enter** | show playlist items   |
+ | **↑ & ↓ arrows+Enter** | move up/down playlist items   |
+ | **⌫ Backspace** | remove item from playlist   |
+ | **p** | save playlist to .m3u   | 
 
   <h6>* Dynamic keybinds will only work when playlist is visible</h6>
     
