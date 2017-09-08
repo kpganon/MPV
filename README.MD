@@ -41,6 +41,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 <h6><i>See <a href="https://github.com/kpganon/MPV/blob/master/input.conf">input.conf</a> for more</i></h6>
 
 <h1>Installed userscripts</h1>
+
 * <a href="https://github.com/jonniek/mpv-scripts/blob/master/appendURL.lua">appendURL</a>
     * Paste url (__Ctrl+v__)
     
