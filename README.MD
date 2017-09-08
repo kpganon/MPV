@@ -51,7 +51,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
     
    <h6><i>Requires <a href="https://github.com/Diaoul/subliminal">subliminal</a></i></h6>
     
-### <a href="https://github.com/ElegantMonkey/mpv-webm">
+### <a href="https://github.com/ElegantMonkey/mpv-webm">mpv-webm</a>
     * Quick webms (Shift+w)
     * only works with local media and streamed mp4s 
   
