@@ -4,7 +4,7 @@
 -- keyname script_binding auto_load_subs
 local utils = require 'mp.utils'
 function load_sub_fn()
-    subl = "subliminal" -- install via 'pip install subliminal'
+    subl = "subliminal" -- install to %PATH% via 'pip install subliminal'
     mp.msg.info("Searching subtitle")
     mp.osd_message("Searching subtitle")
     t = {}
