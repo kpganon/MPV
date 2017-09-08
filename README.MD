@@ -20,15 +20,15 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 
 | Keybind       | Action        |
 | ------------- |:-------------:|
-| **Mouse wheel up+down**     | volume control |
+| **Mouse wheel ↑+↓**     | volume control |
 | **Ctrl+V**      | paste url into mpv      | 
 | **Shift+Enter** | show playlist      |
 | **Ctrl+←/→ arrows** | skip back/forward in playlist   |
 | **p** | save current playlist to .m3u (saved to %APPDATA%\mpv\Playlists)¹   |
 | **Ctrl+r** | reload video  |
 | **F1+left click** | click+drag to pan video   |
-| **Shift+mousewheel up or down** | zoom in/out of video   |
-| **Alt+left/right arrow** | rotate video   |
+| **Shift+mousewheel ↑+↓** | zoom in/out of video   |
+| **Alt+←/→** | rotate video   |
 | **Alt+d** | remove all video filters   |
 | **insert** | quit player (alternative to q)   |
 | **Alt+1** | toggle borderless   |
