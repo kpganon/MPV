@@ -98,5 +98,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 https://github.com/mpv-player/mpv/wiki/User-Scripts
 
 https://github.com/Argon-/mpv-config/tree/master/scripts
+
 https://github.com/occivink/mpv-scripts
+
 https://github.com/jonniek/mpv-scripts
