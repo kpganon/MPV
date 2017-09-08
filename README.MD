@@ -36,6 +36,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 | **l** | toggle file loop   |
 | **i** | show video stats   |
 | **c** | crop video   |
+| **b** | download subs   |
 | **Shift+w** | start <a href="https://github.com/ElegantMonkey/mpv-webm">webm.lua</a>   |
 | **Ctrl+e** | download currently playing video to desktop using youtube-dl   |
 | **d/Ctrl+d** | deinterlace/automatically detect which filter to use   |
@@ -46,7 +47,9 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
     * Paste url (Ctrl+v)
     
 ### <a href="https://github.com/Argon-/mpv-config/blob/master/scripts/autosub.lua">autosub</a>
-    * Download subtitles for active file. <i>Requires <a href="https://github.com/Diaoul/subliminal">subliminal</a></i>
+    * Download subtitles for active file. 
+    
+<h6><i>Requires <a href="https://github.com/Diaoul/subliminal">subliminal</a></i></h6>
     
 ### <a href="https://github.com/ElegantMonkey/mpv-webm">
     * Quick webms (Shift+w)
@@ -65,6 +68,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
     * Show video info (i)
  
  ### <a href="https://github.com/jonniek/mpv-playlistmanager">mpv-playlistmanager</a>
+ 
     * Create/manage playlists 
     | **Shift+Enter** | show playlist items   |
     | **↑ & ↓ arrows+Enter** | move up/down playlist items   |
