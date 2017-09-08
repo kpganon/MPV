@@ -28,7 +28,7 @@ Colons can be used to align columns.
 | **Ctrl+arrow keys l/r** | skip back/forward in playlist   |
 | **p** | save current playlist to .m3u (saved to %APPDATA%\mpv\Playlists)   |
 | **Ctrl+r** | reload video  |
-| **F1+left click | click+drag to pan video   |
+| **F1+left click** | click+drag to pan video   |
 | **Shift+mousewheel up or down** | zoom in/out of video   |
 | **Alt+left/right arrow** | rotate video   |
 | **Alt+d** | remove all video filters   |
@@ -40,29 +40,6 @@ Colons can be used to align columns.
 | **Ctrl+f** | crop video   |
 | **Shift+w** | start <a href="https://github.com/ElegantMonkey/mpv-webm">webm.lua</a>   |
 | **Ctrl+e** | download currently playing video to desktop using youtube-dl   |
-<h6><i>See <a href="https://github.com/kpganon/MPV/blob/master/input.conf">input.conf</a> for more</i></h6>
-
-
-* __Mouse wheel up+down__ .....................volume control
-* __Ctrl+V__ ..................................paste url into mpv
-* __Shift+Enter__ .............................show playlist
-* __Shift+< & Shift+>__ .......................skip back/forward in playlist
-* __p__ .......................................save current playlist to .m3u (saved to %APPDATA%\mpv\Playlists)
-* Ctrl+r.......................................reload video
-* __F1+drag__ .................................click+drag to pan video
-* __Shift+mousewheel up or down__..............zoom in/out of video
-* __Alt+d__....................................remove all video filters
-* __Alt+left/right arrow__......................rotate video
-* __insert__....................................quit player (alternative to q)
-* __Alt+1__.....................................toggle borderless
-* __Shift+v__...................................cycle video player scale
-* __l__.........................................toggle file loop
-* __i__.........................................show video stats
-* __Ctrl+f__....................................crop video
-* __d__.........................................deinterlace (ctrl+d + d again to use enhanced deinterlace filter)
-* __Ctrl+f__....................................crop video
-* __Shift+w__...................................start webm.lua
-* __Ctrl+e__.....................................download currently playing video to desktop using youtube-dl
 <h6><i>See <a href="https://github.com/kpganon/MPV/blob/master/input.conf">input.conf</a> for more</i></h6>
 
 <h1>Installed userscripts</h1>
