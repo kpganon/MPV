@@ -95,4 +95,5 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
     
 <h2>Additional</h2>
 https://github.com/mpv-player/mpv/wiki/User-Scripts
+
 https://github.com/occivink/mpv-scripts
