@@ -53,8 +53,10 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
     * only works with local media and streamed mp4s 
   
 ## <a href="https://github.com/occivink/mpv-scripts/blob/master/drag-to-pan.lua">drag-to-pan</a>
+      * Pan video (__F1+left click__)
       
 <h3>Passive</h3>
+
 ## <a href="https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua">autoload</a>
     * Automatically loads all files in active file's folder into a playlist
     
