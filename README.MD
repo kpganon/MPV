@@ -65,7 +65,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 ### <a href="https://github.com/occivink/mpv-scripts/blob/master/drag-to-pan.lua">drag-to-pan</a>
       * Pan video (F1+left click)
       
-### <a href="https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autodeint.lua">autodeint(<i>erlance></i>)</a>
+### <a href="https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autodeint.lua">autodeint(<i>erlance</i>)</a>
     * Detect which deinterlace filter to use (Ctrl+d)
     
 ### <a href="https://github.com/aidanholm/mpv-easycrop">easycrop</a>
