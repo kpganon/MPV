@@ -41,23 +41,23 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 <h6><i>See <a href="https://github.com/kpganon/MPV/blob/master/input.conf">input.conf</a> for more</i></h6>
 
 <h1>Installed userscripts</h1>
-*<a href="https://github.com/jonniek/mpv-scripts/blob/master/appendURL.lua">appendURL</a>
+* <a href="https://github.com/jonniek/mpv-scripts/blob/master/appendURL.lua">appendURL</a>
     * Paste url (__Ctrl+v__)
     
-*<a href="https://github.com/Argon-/mpv-config/blob/master/scripts/autosub.lua">autosub</a>
+* <a href="https://github.com/Argon-/mpv-config/blob/master/scripts/autosub.lua">autosub</a>
     * Download subtitles for active file. <i>Requires <a href="https://github.com/Diaoul/subliminal">subliminal</a></i>
     
-*<a href="https://github.com/ElegantMonkey/mpv-webm">
+* <a href="https://github.com/ElegantMonkey/mpv-webm">
     * Quick webms (__Shift+w__)
     * only works with local media and streamed mp4s 
   
-*<a href="https://github.com/occivink/mpv-scripts/blob/master/drag-to-pan.lua">drag-to-pan</a>
+* <a href="https://github.com/occivink/mpv-scripts/blob/master/drag-to-pan.lua">drag-to-pan</a>
       
 <h2>Passive</h2>
-*<a href="https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua">autoload</a>
+* <a href="https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua">autoload</a>
     * Automatically loads all files in active file's folder into a playlist
     
-*<a href="https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autodeint.lua">autodeint(erlance)</a>
+* <a href="https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autodeint.lua">autodeint(erlance)</a>
 
 <h6>Additional</h6>
 https://github.com/mpv-player/mpv/wiki/User-Scripts
