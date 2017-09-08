@@ -1,5 +1,5 @@
 <p align="center"><img src="http://i.imgur.com/qmxCXRC.png" alt="MPV logo" width="128" height="128"/></p>
-<p align="center"><img src="https://i.imgur.com/TpkpA9R.gif" height="720" width="1280"/></p>
+<p align="center"><img src="https://i.imgur.com/TpkpA9R.gif" height="476" width="960"/></p>
 <p align="center"><a href="https://imgur.com/a/ldJ9D">Usage</a></p>
 <div class="header">
   <h1>MPV CONFIG</h1>
