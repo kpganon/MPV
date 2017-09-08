@@ -23,7 +23,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 | **Mouse wheel up+down**     | volume control |
 | **Ctrl+V**      | paste url into mpv      | 
 | **Shift+Enter** | show playlist      |
-| **Ctrl+arrow keys l/r** | skip back/forward in playlist   |
+| **Ctrl+←/→ arrows** | skip back/forward in playlist   |
 | **p** | save current playlist to .m3u (saved to %APPDATA%\mpv\Playlists)   |
 | **Ctrl+r** | reload video  |
 | **F1+left click** | click+drag to pan video   |
@@ -35,32 +35,52 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 | **Shift+v** | cycle video player scale   |
 | **l** | toggle file loop   |
 | **i** | show video stats   |
-| **Ctrl+f** | crop video   |
+| **c** | crop video   |
 | **Shift+w** | start <a href="https://github.com/ElegantMonkey/mpv-webm">webm.lua</a>   |
 | **Ctrl+e** | download currently playing video to desktop using youtube-dl   |
+| **d/Ctrl+d** | deinterlace/automatically detect which filter to use   |
 <h6><i>See <a href="https://github.com/kpganon/MPV/blob/master/input.conf">input.conf</a> for more</i></h6>
 <h1>Installed userscripts</h1>
 
 ### <a href="https://github.com/jonniek/mpv-scripts/blob/master/appendURL.lua">appendURL</a>
-    * Paste url (**Ctrl+v**)
+    * Paste url (Ctrl+v)
     
 ### <a href="https://github.com/Argon-/mpv-config/blob/master/scripts/autosub.lua">autosub</a>
     * Download subtitles for active file. <i>Requires <a href="https://github.com/Diaoul/subliminal">subliminal</a></i>
     
 ### <a href="https://github.com/ElegantMonkey/mpv-webm">
-    * Quick webms (**Shift+w**)
+    * Quick webms (Shift+w)
     * only works with local media and streamed mp4s 
   
 ### <a href="https://github.com/occivink/mpv-scripts/blob/master/drag-to-pan.lua">drag-to-pan</a>
-      * Pan video (**F1+left click**)
+      * Pan video (F1+left click)
       
+### <a href="https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autodeint.lua">autodeint(<i>erlance></i>)</a>
+    * Detect which deinterlace filter to use (Ctrl+d)
+    
+### <a href="https://github.com/aidanholm/mpv-easycrop">easycrop</a>
+    * Crop video (Ctrl+f)
+    
+### <a href="https://github.com/Argon-/mpv-stats">mpv-stats</a>
+    * Show video info (i)
+ 
+ ### <a href="https://github.com/jonniek/mpv-playlistmanager">mpv-playlistmanager</a>
+    * Create/manage playlists 
+    | **Shift+Enter** | show playlist items   |
+    | **↑ & ↓ arrows+Enter** | move up/down playlist items   |
+    | **⌫ Backspace** | remove item from playlist   |
+    | **p** | save playlist to .m3u   | 
+
+  <h6>* Dynamic keybinds will only work when playlist is visible</h6>
+    
 <h3>Passive</h3>
 
 ### <a href="https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua">autoload</a>
     * Automatically loads all files in active file's folder into a playlist
     
-### <a href="https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autodeint.lua">autodeint(erlance)</a>
-
+### <a href="https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/ontop-playback.lua">ontop-playback</a>
+    * Disables always-on-top while video is paused
+    
 <h6>Additional</h6>
 https://github.com/mpv-player/mpv/wiki/User-Scripts
 https://github.com/occivink/mpv-scripts
