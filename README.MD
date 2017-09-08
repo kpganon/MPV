@@ -42,9 +42,9 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 | **Shift+drag url onto mpv** | add link to playlist   |
 | **Ctrl+e** | download currently playing video to desktop using youtube-dl³   |
 | **d/Ctrl+d** | deinterlace/automatically detect which filter to use   |
-* ¹ edit <a href="https://github.com/kpganon/MPV/blob/master/scripts/playlistmanager.lua">line 6</a> if playlists don't save
-* ² edit <a href="https://github.com/kpganon/MPV/blob/master/mpv.conf">line 32</a> if screenshots fail
-* ³ edit <a href="https://github.com/kpganon/MPV/blob/master/input.conf">line 26</a> to change download directory
+* ¹ edit <a href="https://github.com/kpganon/MPV/blob/master/scripts/playlistmanager.lua#L6">line 6</a> if playlists don't save
+* ² edit <a href="https://github.com/kpganon/MPV/blob/master/mpv.conf#L32">line 32</a> if screenshots fail
+* ³ edit <a href="https://github.com/kpganon/MPV/blob/master/input.conf#L26">line 26</a> to change download directory
 <h6><i>See <a href="https://github.com/kpganon/MPV/blob/master/input.conf">input.conf</a> for more</i></h6>
 <h1>Installed userscripts</h1>
 
