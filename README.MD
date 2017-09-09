@@ -22,6 +22,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 | ------------- |:-------------:|
 | **Mouse wheel ↑+↓**     | volume control |
 | **Ctrl+v**      | paste url into mpv      | 
+| **Ctrl+c**   | copy url/path to clipboard   |
 | **Shift+Enter** | show playlist      |
 | **Ctrl+←/→ arrows** | skip back/forward in playlist   |
 | **p** | save current playlist to .m3u (saved to %APPDATA%\mpv\Playlists)¹   |
