@@ -32,6 +32,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 | **Alt+←/→** | rotate video   |
 | **Alt+d** | remove all video filters   |
 | **insert** | quit player (alternative to q)   |
+| **Shift+q** | save position and quit   |
 | **Alt+1** | toggle borderless   |
 | **Shift+v** | cycle video player scale   |
 | **l** | toggle file loop   |
