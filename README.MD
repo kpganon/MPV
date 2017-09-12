@@ -35,6 +35,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 | **Alt+1** | toggle borderless   |
 | **Shift+v** | cycle video player scale   |
 | **l** | toggle file loop   |
+| **a** | set & clear a-b loop points   |
 | **i** | show video stats   |
 | **c** | crop video   |
 | **b** | download subs   |
