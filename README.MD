@@ -43,7 +43,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 | **s** | take a screenshot²   |
 | **Shift+w** | start <a href="https://github.com/ElegantMonkey/mpv-webm">webm.lua</a>   |
 | **Shift+drag url onto mpv** | add link to playlist   |
-| **Ctrl+e** | download currently playing video to desktop using <a href="https://github.com/rg3/youtube-dl">youtube-dl³</a>   |
+| **Ctrl+e** | download currently playing video to desktop using <a href="https://github.com/rg3/youtube-dl">youtube-dl</a>³   |
 | **d/Ctrl+d** | deinterlace/automatically detect which filter to use   |
 * ¹ edit <a href="https://github.com/kpganon/MPV/blob/master/scripts/playlistmanager.lua#L6">line 6</a> if playlists don't save
 * ² edit <a href="https://github.com/kpganon/MPV/blob/master/mpv.conf#L32">line 32</a> if screenshots fail
