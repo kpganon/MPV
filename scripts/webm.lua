@@ -32,14 +32,14 @@ local options = {
   -- In kilobits.
   strict_audio_bitrate = 125,
   video_codec = "libvpx",
-  audio_codec = "libvorbis",
+  audio_codec = "libopus",
   twopass = true,
   -- Set the number of encoding threads, for codecs libvpx and libvpx-vp9
   libvpx_threads = 4,
   additional_flags = "",
   -- Useful for flags that may impact output filesize, such as crf, qmin, qmax etc
   -- Won't be applied when strict_filesize_constraint is on.
-  non_strict_additional_flags = "--ovcopts-add=preset=slow",
+  non_strict_additional_flags = "--ovfirst --ovcopts-add=preset=veryslow",
   -- Only encode tracks that are actually playing
   only_active_tracks = true,
   output_extension = "webm",
