@@ -46,7 +46,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 | **Ctrl+e** | download currently playing video to desktop using <a href="https://github.com/rg3/youtube-dl">youtube-dl</a>³   |
 | **d/Ctrl+d** | deinterlace/automatically detect which filter to use   |
 | **Delete** | cycle osc visibility   |
-* ¹ edit <a href="https://github.com/kpganon/MPV/blob/master/scripts/playlistmanager.lua#L6">line 6</a> if playlists don't save
+* ¹ edit <a href="https://github.com/kpganon/MPV/blob/master/scripts/playlistmanager.lua#L6">line 6</a> with your own username to save playlists
 * ² edit <a href="https://github.com/kpganon/MPV/blob/master/mpv.conf#L32">line 32</a> to change screenshot directory
 * ³ edit <a href="https://github.com/kpganon/MPV/blob/master/input.conf#L26">line 26</a> to change download directory
 <h6><i>See <a href="https://github.com/kpganon/MPV/blob/master/input.conf">input.conf</a> for more</i></h6>
