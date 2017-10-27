@@ -24,6 +24,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 | **Ctrl+v**      | paste url into mpv      | 
 | **Ctrl+c**   | copy url/path to clipboard   |
 | **Shift+Enter** | show playlist      |
+| **Shift+t** | toggle always-on-top      |
 | **Ctrl+←/→ arrows** | skip back/forward in playlist   |
 | **p** | save current playlist to .m3u (saved to %APPDATA%\mpv\Playlists)¹   |
 | **Ctrl+r** | reload video  |
