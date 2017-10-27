@@ -43,7 +43,7 @@ __Default__: https://mpv.io/manual/stable/#keyboard-control
 | **b** | download subs   |
 | **s** | take a screenshot²   |
 | **Shift+w** | start <a href="https://github.com/ElegantMonkey/mpv-webm">webm.lua</a>   |
-| **Shift+drag url onto mpv** | add link to playlist   |
+| **Shift+drag url onto mpv** | append link to playlist   |
 | **Ctrl+e** | download currently playing video to desktop using <a href="https://github.com/rg3/youtube-dl">youtube-dl</a>³   |
 | **d/Ctrl+d** | deinterlace/automatically detect which filter to use   |
 | **Delete** | cycle osc visibility   |
