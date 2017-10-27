@@ -22,7 +22,8 @@ local options = {
   -- Scale video to a certain height, keeping the aspect ratio. -1 disables it.
   scale_height = -1,
   -- Target filesize, in kB.
-  target_filesize = 2999,
+  -- target_filesize = 2999,
+  target_filesize = 15999,
   -- If true, will use stricter flags to ensure the resulting file doesn't
   -- overshoot the target filesize. Not recommended, as constrained quality
   -- mode should work well, unless you're really having trouble hitting
